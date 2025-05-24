@@ -22,6 +22,41 @@
 - PhoBERT for Vietnamese text embedding
 - CustomTkinter and ttkbootstrap for modern UI
 
+### Chatbot Application Screenshots
+
+| ![Main Interface](/Project_images/1_index.png) |
+|:--:|
+| Main Interface |
+
+| ![Input Question](/Project_images/2_fill_the_input.png) |
+|:--:|
+| Enter Question |
+
+| ![Chatbot Response 1](/Project_images/3_chat_bot_reponse_1.png) |
+|:--:|
+| Chatbot Response 1 |
+
+| ![Chatbot Response 2](/Project_images/4_chat_bot_reponse_2.png) |
+|:--:|
+| Chatbot Response 2 |
+
+| ![KG Retrieval Visualization](/Project_images/5_KG_retrival_show.png) |
+|:--:|
+| Chatbot Graph Display Retrieved from Query |
+
+| ![Chatbot Out-of-Knowledge Response](/Project_images/6_chat_bot_reponse3.png) |
+|:--:|
+| Chatbot Response When Question is Outside Knowledge Source |
+
+| ![Conversation History](/Project_images/7_history.png) |
+|:--:|
+| Conversation History |
+
+| ![Log File](/Project_images/8_log_file.png) |
+|:--:|
+| Log File Recording Input and Generation for Traceability |
+
+
 ## Project Structure
 
 ```
@@ -114,4 +149,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Google Gemini API for LLM capabilities
 - Neo4j for graph database
 - VINAI's PhoBERT for Vietnamese language processing
-- CustomTkinter for modern UI components
