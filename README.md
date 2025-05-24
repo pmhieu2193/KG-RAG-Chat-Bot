@@ -2,13 +2,13 @@
 
 ## Features
 
-- 🗣 Natural interaction in Vietnamese.  
-- 📊 Knowledge graph integration with Neo4j
+- Natural interaction in Vietnamese.  
+- Knowledge graph integration with Neo4j
 - Chat history management with SQLite
 - Real-time graph visualization
 - Execution time tracking
-- Clean and modern UI
-- 🧠 Combines KG retrieval with LLM generation to deliver precise, meaningful, and context-aware answers.
+- Clean UI
+- Combines KG retrieval with LLM generation to deliver precise, meaningful, and context-aware answers.
 
 ## Tech Stack
 
