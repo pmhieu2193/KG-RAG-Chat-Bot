@@ -1,5 +1,3 @@
-# UTE ChatBot
-
 # 📱 Vietnamese KG-RAG Chatbot Application
 
 ## Features
