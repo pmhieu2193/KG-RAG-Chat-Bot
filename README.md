@@ -18,7 +18,7 @@
 - SQLite for chat history
 - NetworkX and Matplotlib for graph visualization
 - PhoBERT for Vietnamese text embedding
-- CustomTkinter and ttkbootstrap for modern UI
+- CustomTkinter and ttkbootstrap for UI
 
 ### Chatbot Application Screenshots
 
